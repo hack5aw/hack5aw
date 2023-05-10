@@ -1,4 +1,6 @@
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhack5aw&count_bg=%23A00909&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+ 
  Hey there! 👋😃
 
 I'm Hacksaw! I'm a White/Gray Hat Hacker👨🏿‍💻, Cybersecurity student🔒, and Coder🖥, who created an independent organization called Project H@ck$aw. I am passionate about Computers, Ethical Hacking & anything Tech related🖥️📱💻. I own a Variety of Pen Testing Tools Such as the Flipper Zero and a Bunch of Raspberry Pi Products. Currently, I am learning Python & C.
