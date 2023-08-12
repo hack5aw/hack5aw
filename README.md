@@ -25,6 +25,7 @@ If you find my projects interesting, please do give a 🌟 to my repositories. Y
 
 Product & Tools that I use 
 -Floopa 🐬 (Flipper Zero). 
+-Raspberry Pi 4
 -Raspberry Pi 3b & 3b+. 🥧🖥
 -Raspberry Pi Zero W. 🥧🖥
 -Raspberry Pi Pico. 🥧🖥
