@@ -3,9 +3,9 @@
  
  Hey there! 👋😃
 
-I'm Hacksaw! I'm a White Hat Hacker👨🏿‍💻, Cybersecurity student🔒, and Coder🖥, who created an independent organization called Project H@ck$aw. I am passionate about Computers, Ethical Hacking & anything Tech related🖥️📱💻. I own a Variety of Pen Testing Tools Such as the Flipper Zero and a Bunch of Raspberry Pi Products. Currently, I am learning Python & C.
+I'm Hacksaw! I'm a White Hat Hacker👨🏿‍💻, Cybersecurity student🔒, and Coder🖥, who created an independent organization called Project x999. I am passionate about Computers, Ethical Hacking & anything Tech related🖥️📱💻. I own a Variety of Pen Testing Tools Such as the Flipper Zero and a Bunch of Raspberry Pi Products. Currently, I am learning Python & C.
 
-📍 I am from the US, you can reach me on Discord at Hack5aw. You can also email me at Hacksawproject@gmail.com.
+📍 I am from the US, you can reach me on Discord at hack5aw. You can also email me at hacksawproject@gmail.com.
 
 If you find my projects interesting, please do give a 🌟 to my repositories. Your support means a lot!
 
